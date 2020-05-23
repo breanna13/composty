@@ -1,0 +1,2 @@
+rootProject.name='Composty2'
+include ':app'

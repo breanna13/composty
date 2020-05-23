@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Composty2</string>
+    <string name="composty">Composty</string>
+    <string name="cloud1">cloud</string>
+    <string name="buttonimage">buttonimage</string>
+    <string name="let_s_go">Let\'s Go!</string>
+    <string name="hi_my_name_is_conrad_i_m_the_composting_bear">Hi! \nMy name is Conrad. I\'m the composting bear!</string>
+    <string name="next">Next</string>
+    <string name="yes">Yes!</string>
+    <string name="title_activity_infodump">activity_infodump</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="composting_is_a_process_in_nature_where_things_that_can_break_down_like_food_waste_and_leaves_are_recycled_and_fed_to_plants_and_the_earth">Composting is a process in nature where things that can break down (like food waste and leaves) are recycled and fed to plants and the Earth!</string>
+    <string name="it_s_important_to_compost_because_it_saves_resources_and_reduces_our_impact_on_the_earth_nwill_you_help_me">It\'s important to compost because it saves resources and reduces our impact on the Earth. \nWill you help me?</string>
+    <string name="throw_something_away">Throw something away!</string>
+    <string name="check_on_conrad">Check on Conrad</string>
+    <string name="learn_more_about_composting">Learn more about Composting</string>
+    <string name="i_want_to">I want to...</string>
+</resources>
